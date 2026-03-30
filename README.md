@@ -8,10 +8,10 @@ I run biological screens and build computational pipelines that learn from
 experimental data to guide the rational design of lipid nanoparticles (LNPs)
 for mRNA delivery.
 
-## What I'm aiming for
+## Research interests
 
 My longer-term interest is in computer-assisted drug design, particularly for 
-targets where data is scarceand experimental iteration is expensive. I see 
+targets where data is scarce and experimental iteration is expensive. I see 
 untapped potential in modeling synthetic accessibility earlier in the design 
 loop, and in integrating translational constraints before they become bottlenecks.
 
