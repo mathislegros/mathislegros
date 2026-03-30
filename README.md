@@ -19,4 +19,4 @@ loop, and in integrating translational constraints before they become bottleneck
 `Python` `PyTorch` `RDKit` `scikit-learn` `NumPy` `Pandas` `LaTeX`
 
 📍 Boston, MA (fellowship) → Zürich  
-📬 #https://www.linkedin.com/in/mathis-legros-863242249 · #legrosm@ethz.ch
+📬 [LinkedIn](https://www.linkedin.com/in/mathis-legros-863242249) · [legrosm@ethz.ch](mailto:legrosm@ethz.ch)
