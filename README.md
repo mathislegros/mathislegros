@@ -3,7 +3,7 @@
 I'm a final-year MSc student at ETH Zürich, currently completing a research
 fellowship at the Broad Institute of MIT and Harvard.
 
-My work lives at the interface of machine learning and molecular biology —
+My work is at the interface of machine learning and molecular biology:
 I run biological screens and build computational pipelines that learn from
 experimental data to guide the rational design of lipid nanoparticles (LNPs)
 for mRNA delivery.
